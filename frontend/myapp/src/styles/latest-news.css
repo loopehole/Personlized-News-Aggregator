@@ -1,0 +1,22 @@
+.latest-news-container {
+    background-image: url('/frontend/myapp/public/assets/latest-news-background.jpeg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 20px;
+    min-height: 100vh;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  h1, p {
+    text-align: center;
+  }
+  

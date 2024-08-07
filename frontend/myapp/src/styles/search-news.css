@@ -1,0 +1,13 @@
+.search-news-container {
+    background-image: url('/frontend/myapp/public/assets/search-news-background.jpeg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 20px;
+    min-height: 100vh;
+  }
+  
+  form {
+    text-align: center;
+  }
+  

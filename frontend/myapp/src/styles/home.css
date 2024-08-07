@@ -1,0 +1,46 @@
+.home-container {
+    background-image: url('/frontend/myapp/public/assets/home-background.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    min-height: 100vh;
+    position: relative; /* To ensure footer is positioned relative to this container */
+  }
+  
+  nav {
+    margin: 20px 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav li {
+    margin-bottom: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #00bfff;
+    font-size: 18px;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  footer {
+    position: absolute; /* Position footer absolutely within the relative container */
+    bottom: 0;
+    left: 0; /* Or right: 0; depending on where you want it aligned */
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for readability */
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+  }
+  
