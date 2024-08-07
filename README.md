@@ -72,10 +72,6 @@ Deploy the backend and frontend on a platform like Heroku, AWS, or another cloud
 
 Feel free to submit issues or pull requests. Contributions are welcome to enhance the functionality and improve the user experience.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any inquiries, please contact Jai Srivastava at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please contact Jai Srivastava at [your-email@example.com](mailto:decent.jai1995@gmail.com).
